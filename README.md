@@ -49,8 +49,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [(https://your-solution-url.com)](https://github.com/KJabeen/Newsletter-signup-with-success-message))
+- Live Site URL: [(https://your-live-site-url.com)](https://kjabeen.github.io/Newsletter-signup-with-success-message/)
 
 ## My process
 
@@ -60,4 +60,8 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
+- Mobile responsive page
+- Javascript
+- Foreach Loop
+- ifElse
+- Email Validation
